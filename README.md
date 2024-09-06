@@ -21,14 +21,14 @@ My work account is [@3d4m-volodymyr](https://github.com/3d4m-volodymyr).
 </picture>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sakrist&show_icons=true&theme=dark&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sakrist&show_icons=true&theme=dark&layout=compact&bg_color=00000000"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sakrist&show_icons=true&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sakrist&show_icons=true&layout=compact&bg_color=00000000"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakrist&show_icons=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakrist&show_icons=true&layout=compact&bg_color=00000000" />
 </picture>
 
 ## Books
