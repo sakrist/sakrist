@@ -42,8 +42,6 @@ My favorite books in the last several years:
 * The Five Dysfunctions of a Team by Patrick Lencioni
 * How Big Things get Done by Bent Flyvbjerg
 
-## 📫 How to reach me
-* Twitter [@sakrist](https://x.com/SAKrisT)
 
 
 <!--
