@@ -43,5 +43,3 @@ My favorite books in the last several years:
 * How Big Things get Done by Bent Flyvbjerg
 
 
-
-[![Volodymyr B. profile views](https://u8views.com/api/v1/github/profiles/110199/views/day-week-month-total-count.svg)](https://u8views.com/github/sakrist)
