@@ -31,6 +31,8 @@ My work account is [@3d4m-volodymyr](https://github.com/3d4m-volodymyr).
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakrist&show_icons=true&layout=compact&bg_color=00000000" />
 </picture>
 
+![](https://komarev.com/ghpvc/?username=sakrist)
+
 ## Books
 My favorite books in the last several years:
 * Become an Efficient Software Engineering Manager by James Stanier
