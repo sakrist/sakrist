@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 ## Current work
-Working at Elsevier and my key aspects of the role is:
-  * leading team who is bringing 3D anatomy models to the Web, rendering and data pipeline.
-  * connecting content and forward thinking
+Working at Elsevier doing a lot of many differnt tihngs 😁
 
-## Account
-My work account is [@3d4m-volodymyr](https://github.com/3d4m-volodymyr).
+I like languages C++, Swift, TypeScript. 
+I like things related to rendering graphics, GPUs and designed things through the code.
+
+Hit me a message if you want to talk about people management, mentoring and coaching.
 
 <picture>
 <source 
