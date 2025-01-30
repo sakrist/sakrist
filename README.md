@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-## Current work
-Working at Elsevier doing a lot of many differnt tihngs 😁
+I like:
+* programming languages C++, Swift, TypeScript. 
+* things related to rendering graphics, shaders, GPUs and designed things through the code.
+* elegant APIs, small and clever solutions
+* coaching, mentoring and talking about carrier growth
 
-I like languages C++, Swift, TypeScript. 
-I like things related to rendering graphics, GPUs and designed things through the code.
-
-Hit me a message if you want to talk about people management, mentoring and coaching.
+Hit me a message if you want to talk about one of the topics.
 
 <picture>
 <source 
