@@ -4,7 +4,8 @@ I like:
 * programming languages C++, Swift, TypeScript. 
 * things related to rendering graphics, shaders, GPUs and designed things through the code.
 * elegant APIs, small and clever solutions
-* coaching, mentoring and talking about carrier growth
+* coaching, mentoring
+* purple  
 
 Hit me a message if you want to talk about one of the topics.
 
