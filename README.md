@@ -9,7 +9,7 @@ I like:
 
 ## Projects
 
-* Deilsa - currently closed code https://deilsa.com/
+* project XYZ - in progress
 * [HabitTracker](https://github.com/sakrist/HabitTracker) - Habits tracker app
 * [flappy bird clone game](https://github.com/sakrist/webapp-opengl) - app Sample with Swift embedded wasm for Browser - flappy bird clone game
 * [emsdk_swift](https://github.com/sakrist/emsdk_swift) - sample Swift Embedded WebAssembly + Emscripten SDK
