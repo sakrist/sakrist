@@ -10,21 +10,21 @@ I like:
 ## Projects
 
 * project XYZ - in progress
-* [Ancrate](https://github.com/sakrist/Ancrate) - scans user Notes and makes list of ToDos
-* [HabitTracker](https://github.com/sakrist/HabitTracker) - Habits tracker app
-* [flappy bird clone game](https://github.com/sakrist/webapp-opengl) - app Sample with Swift embedded wasm for Browser - flappy bird clone game
-* [emsdk_swift](https://github.com/sakrist/emsdk_swift) - sample Swift Embedded WebAssembly + Emscripten SDK
-* [BezierPath](https://github.com/sakrist/BezierPath) - swift library - triangulation for BezierPath
-* [MyAutarco-alt](https://github.com/sakrist/MyAutarco-alt) - alternative app for Autarco solar panels
-* [jsb](https://github.com/sakrist/jsb) - C++ bridge for native apps, inspired by embind from emscripten
-* [Swift_OpenGL_Example](https://github.com/sakrist/Swift_OpenGL_Example) - OpenGL Swift sample that runs on Ubuntu, macOS, iOS and Android
-* [SimpleCPURaster](https://github.com/sakrist/SimpleCPURaster) - C++ simple CPU raster, learning project
-* [Delaunay](https://github.com/sakrist/Delaunay) - swift library - Delaunay triangulation
-* [glTFSceneKit](https://github.com/sakrist/glTFSceneKit) - swift library for GLTF to SceneKit
-* [VBPieChart](https://github.com/sakrist/VBPieChart) - Objective-C library PieChart
-* [BicDuino](https://github.com/sakrist/BicDuino) - Speedometer for bicycle based on RFDuino
-* [ClipMaker](https://github.com/sakrist/ClipMaker) - app to make video out of Live photo
-* [ColorPicker](https://github.com/sakrist/VBColorPicker) - Objective-C library to select color
+* [Ancrate](https://github.com/sakrist/Ancrate) - Scans Apple Notes and extracts actionable to-dos.
+* [HabitTracker](https://github.com/sakrist/HabitTracker) - Habit tracking app for building and monitoring daily routines.
+* [flappy bird clone game](https://github.com/sakrist/webapp-opengl) - Flappy Bird clone demonstrating Swift + WebAssembly running in the browser.
+* [emsdk_swift](https://github.com/sakrist/emsdk_swift) - Example of Swift Embedded WebAssembly using the Emscripten SDK.
+* [BezierPath](https://github.com/sakrist/BezierPath) - Swift library for Bézier path triangulation.
+* [MyAutarco-alt](https://github.com/sakrist/MyAutarco-alt) - Alternative mobile app for monitoring Autarco solar panels.
+* [jsb](https://github.com/sakrist/jsb) - C++ bridge for native apps inspired by Emscripten’s embind.
+* [Swift_OpenGL_Example](https://github.com/sakrist/Swift_OpenGL_Example) - Cross-platform OpenGL example in Swift (Ubuntu, macOS, iOS, Android).
+* [SimpleCPURaster](https://github.com/sakrist/SimpleCPURaster) - Educational C++ CPU rasterizer implementation.
+* [Delaunay](https://github.com/sakrist/Delaunay) - Swift library implementing Delaunay triangulation.
+* [glTFSceneKit](https://github.com/sakrist/glTFSceneKit) - Swift library for loading glTF models into SceneKit.
+* [VBPieChart](https://github.com/sakrist/VBPieChart) - Objective-C pie chart UI component.
+* [BicDuino](https://github.com/sakrist/BicDuino) - Bicycle speedometer built with RFDuino.
+* [ClipMaker](https://github.com/sakrist/ClipMaker) - App for converting Live Photos into video clips.
+* [ColorPicker](https://github.com/sakrist/VBColorPicker) - Objective-C color picker UI component.
 
 ## Books
 My favorite books in the last several years:
