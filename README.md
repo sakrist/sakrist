@@ -5,9 +5,11 @@ I like:
 * things related to rendering graphics, shaders, GPUs and designed things through the code.
 * elegant APIs, small and clever solutions
 * coaching, mentoring
-* purple  
+* purple
 
-## Projects
+While I have a full-time job, I also experiment with various things on the side. 
+
+## Side Projects
 
 * project XYZ - in progress
 * [Ancrate](https://github.com/sakrist/Ancrate) - Scans Apple Notes and extracts actionable to-dos.
