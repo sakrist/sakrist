@@ -13,6 +13,7 @@ While I have a full-time job, I also experiment with various things on the side.
 
 * project XYZ - in progress
 * [Ancrate](https://github.com/sakrist/Ancrate) - Scans Apple Notes and extracts actionable to-dos.
+* [Strava Chapters](https://github.com/sakrist/strava-chapters-app) - Strava chapters generator out of bike rides.
 * [HabitTracker](https://github.com/sakrist/HabitTracker) - Habit tracking app for building and monitoring daily routines.
 * [flappy bird clone game](https://github.com/sakrist/webapp-opengl) - Flappy Bird clone demonstrating Swift + WebAssembly running in the browser.
 * [emsdk_swift](https://github.com/sakrist/emsdk_swift) - Example of Swift Embedded WebAssembly using the Emscripten SDK.
